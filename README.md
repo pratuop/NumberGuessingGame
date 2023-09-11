@@ -1,0 +1,2 @@
+# NumberGuessingGame
+Pratik's Number Guessing Game is a simple yet entertaining console-based game developed in C++. The objective of the game is to guess a randomly generated number within a specified range. It provides users with a fun and interactive way to test their guessing skills.
